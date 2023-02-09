@@ -1,2 +1,3 @@
-# Mass-file-renaming
-For those who have several files who need to be renamed as per a naming convention. This was meant to randomize the file names but a simple edit or two could easily be done if there's a certain naming style that one would want. 
+# Mass-file-randomizer
+I had a lot of files archived and wanted to go with a random naming system as a test. 
+With an edit or two this could easily rename files in masse depending on how you'd like to name some files. 
